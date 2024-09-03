@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer Intern
 ------------------------
 
-I am a third year college student going for a Bachelors in Computer Science with an expected graduation date of '24
+I am a senior college student going for a Bachelors in Computer Science with a Concentration in Software Engineering and a Minor in Mathematics, with an expected graduation date of '24
 
 * 🌍  I'm based in Nebraska
 * 🖥️  See my portfolio at [this link](http://emontoya.netlify.app/)
